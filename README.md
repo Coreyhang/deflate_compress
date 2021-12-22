@@ -12,7 +12,9 @@
 
 因此，对于32KB大小的数据块，采用8bits字符长度，最大huffman编码长度为`16`。
 
-参考链接：[哈夫曼编码最大编码长度](https://blog.csdn.net/Mrfive555/article/details/86770192)
+参考链接：
+1. [哈夫曼编码最大编码长度](https://blog.csdn.net/Mrfive555/article/details/86770192)
+2. [信息熵最大值的证明](http://www.math345.com/blog/article/17)
 
 #### Huffman编码后最大总长度
 
